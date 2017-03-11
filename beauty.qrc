@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/beauty">
+        <file>beauty.qss</file>
+        <file>lang/tictactoe_en.qm</file>
+        <file>lang/tictactoe_en.ts</file>
+        <file>lang/tictactoe_fr.qm</file>
+        <file>lang/tictactoe_fr.ts</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,42 @@
+QPushButton[StyleClass="board"]
+{
+        border: 1px solid transparent;
+        background-color: rgb(217, 217, 217);
+        width: 100px;
+        height: 100px;
+}
+
+QPushButton:pressed {
+
+        background-color: rgb(225, 98, 98, 75);
+}
+
+QPushButton#btnNewGame, QPushButton#btnPvP, QPushButton#btnPvC
+{
+        background-color: rgb(33,33,33);
+        color: rgb(217,217,217);
+        height: 50px;
+}
+
+QPushButton[StyleClass="player1"]
+{
+
+        border: 1px solid transparent;
+        background-color: #02a7e7;
+        color: #fff;
+        font-size: 100px;
+        width: 100px;
+        height: 100px;
+}
+
+QPushButton[StyleClass="player2"]
+{
+
+        border: 1px solid transparent;
+        background-color: #f48484;
+        color: #fff;
+        font-size: 100px;
+        width: 100px;
+        height: 100px;
+
+}
